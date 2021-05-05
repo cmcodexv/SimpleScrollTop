@@ -1,0 +1,9 @@
+.back-to-top{
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    z-index: 3;
+    font-size: 30px;
+}
+
